@@ -1,0 +1,15 @@
+{
+  "name": "1backend-mega-project",
+  "version": "1.0.0",
+  "description": "a backend advanced topic cover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt",
+    "backend"
+  ],
+  "author": "Ashish Dixit",
+  "license": "ISC"
+}
